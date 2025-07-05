@@ -21,7 +21,7 @@
 
 Bu proje, tasarımı ve tüm yazılım altyapısı tarafımdan geliştirilen gelişmiş bir Link Ağacı Web Uygulamasıdır. Klasik bağlantı listesi uygulamalarının ötesine geçerek, her ziyaretçinin davranışını takip eden, çok dilli içerik sunan, etkileşimleri analiz eden ve anlık bildirimlerle bilgi sağlayan benzersiz bir sistem barındırmaktadır.
 
-![image](screenshost/tr/1.png)
+![image](screenshosts/tr/1.png)
 
 ## 🧠 Proje Amacı
 
@@ -42,7 +42,7 @@ Bu uygulama sadece bağlantılarımı listelemekle kalmaz, aynı zamanda her ziy
 - Bu sayede bir bağlantının kim tarafından, nerede ve ne zaman paylaşıldığı izlenebilir.  
 - Eksik veya hatalı token varsa, sistem otomatik olarak doğru token ile yönlendirir.
 
-![image](screenshost/tr/2.png)
+![image](screenshosts/tr/2.png)
 
 ### ✅ 2. Gelişmiş Çerez ve IP Takibi
 
@@ -50,7 +50,7 @@ Bu uygulama sadece bağlantılarımı listelemekle kalmaz, aynı zamanda her ziy
 - Böylece ziyaretçinin daha önce siteye gelip gelmediği tespit edilir.  
 - IP, proxy, tarayıcı bilgisi, port, dil, charset ve sıkıştırma bilgileri kaydedilir.
 
-![image](screenshost/tr/3.png)
+![image](screenshosts/tr/3.png)
 
 ### ✅ 3. Anlık Telegram Bildirimi
 
@@ -58,7 +58,7 @@ Bu uygulama sadece bağlantılarımı listelemekle kalmaz, aynı zamanda her ziy
 - Bildirimler; IP, yönlendiren bağlantı, tarayıcı bilgisi, sayfa dili, mesaj/puntu içerir.  
 - Böylece kullanıcı etkileşimleri gerçek zamanlı olarak izlenebilir.
 
-![image](screenshost/tr/4.png)
+![image](screenshosts/tr/4.png)
 
 ### ✅ 4. Akıllı Paylaşım İzleme
 
@@ -66,7 +66,7 @@ Bu uygulama sadece bağlantılarımı listelemekle kalmaz, aynı zamanda her ziy
 - Paylaşılan bağlantılar sayesinde kim tarafından ve hangi platformda paylaşıldığı tespit edilir.  
 - `l.php?l=[ID]` formatı ile gelen ziyaretçiler platforma göre ayrıştırılır (Instagram, Twitter, GitHub vb.).
 
-![image](screenshost/tr/5.png)
+![image](screenshosts/tr/5.png)
 
 ### ✅ 5. Çoklu Dil Desteği (Otomatik & Manuel)
 
@@ -75,7 +75,7 @@ Bu uygulama sadece bağlantılarımı listelemekle kalmaz, aynı zamanda her ziy
 - Ziyaretçi, sağ alttaki butonla dili manuel olarak değiştirebilir.  
 - Dil bilgisi çereze kaydedilir ve Telegram üzerinden iletilir.
 
-![image](screenshost/tr/6.png)
+![image](screenshosts/tr/6.png)
 
 ### ✅ 6. Etkileşimli Geri Bildirim (Puanlama & Mesaj)
 
@@ -83,8 +83,8 @@ Bu uygulama sadece bağlantılarımı listelemekle kalmaz, aynı zamanda her ziy
 - Mesaj içeriği, puanlama ve dil bilgisi anlık olarak iletilir.  
 - Kullanıcı deneyimi ve içerik iyileştirmesi için veri sağlar.
 
-![image](screenshost/tr/7.png)
-![image](screenshost/tr/8.png)
+![image](screenshosts/tr/7.png)
+![image](screenshosts/tr/8.png)
 
 ---
 
@@ -97,7 +97,7 @@ Bu uygulama sadece bağlantılarımı listelemekle kalmaz, aynı zamanda her ziy
 - Sağ alt köşeye sabitlenmiş butonlar (Paylaş, Dil, İletişim)  
 - CSS Grid/Flexbox destekli modern arayüz ve geçiş animasyonları
 
-![image](screenshost/tr/9.png)
+![image](screenshosts/tr/9.png)
 
 ---
 
@@ -118,7 +118,7 @@ Bu uygulama sadece bağlantılarımı listelemekle kalmaz, aynı zamanda her ziy
 
 This is a fully self-designed and self-developed Smart Link Tree Web Application. It extends beyond basic link sharing with real-time visitor tracking, multilingual support, and Telegram-based live interaction reporting.
 
-![image](screenshost/en/1.png)
+![image](screenshosts/en/1.png)
 
 ## 🧠 Purpose of the Project
 
@@ -139,14 +139,14 @@ Disabled links display a predefined warning message to the user.
 - Enables tracking of who, where, and when the link was shared  
 - Redirects automatically if token is missing or incorrect
 
-![image](screenshost/en/2.png)
+![image](screenshosts/en/2.png)
 
 ### ✅ 2. Cookie & IP-based Visitor Tracking
 
 - Long-lived `visitor_id` cookie for recognizing returning visitors  
 - Logs IP, browser, proxy, charset, language, compression, etc.
 
-![image](screenshost/en/3.png)
+![image](screenshosts/en/3.png)
 
 ### ✅ 3. Real-Time Telegram Alerts
 
@@ -154,7 +154,7 @@ Disabled links display a predefined warning message to the user.
 - Includes: referrer, IP, browser, language, feedback rating/message  
 - Allows instant monitoring of visitor behavior
 
-![image](screenshost/en/4.png)
+![image](screenshosts/en/4.png)
 
 ### ✅ 4. Smart Sharing Detection
 
@@ -162,7 +162,7 @@ Disabled links display a predefined warning message to the user.
 - System identifies where and by whom the link was reshared  
 - Supports detection from Instagram, GitHub, Twitter, Threads, etc.
 
-![image](screenshost/en/5.png)
+![image](screenshosts/en/5.png)
 
 ### ✅ 5. Multilingual Support (Auto & Manual)
 
@@ -171,7 +171,7 @@ Disabled links display a predefined warning message to the user.
 - Visitors can manually select preferred language via floating button  
 - Selection is stored in cookies and included in Telegram data
 
-![image](screenshost/en/6.png)
+![image](screenshosts/en/6.png)
 
 ### ✅ 6. Interactive Feedback (Rating & Message)
 
@@ -179,8 +179,8 @@ Disabled links display a predefined warning message to the user.
 - Feedback, rating, and language are sent instantly  
 - Enables real-time user insight and content improvement
 
-![image](screenshost/en/7.png)
-![image](screenshost/en/8.png)
+![image](screenshosts/en/7.png)
+![image](screenshosts/en/8.png)
 
 ---
 
@@ -193,7 +193,7 @@ Disabled links display a predefined warning message to the user.
 - Sticky buttons (share, language, contact)  
 - CSS Grid/Flex layout with hover/modal effects
 
-![image](screenshost/en/9.png)
+![image](screenshosts/en/9.png)
 
 ---
 
